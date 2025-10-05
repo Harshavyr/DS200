@@ -82,62 +82,61 @@ The dataset used in this project is the **"Girls and Boys Enrollement in higher 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/2146ef1e-a937-4462-ab47-dc822b9a7801" />
 
 Overall Gender Distribution
-Uttar Pradesh dominates with highest enrollment (~800K boys, ~650K girls) but shows male bias
-Maharashtra follows as second largest (~500K boys, ~500K girls) with better balance
-Strong positive correlation (0.9+) between boys and girls enrollment across states
-Gender Parity Patterns
+Uttar Pradesh dominates with highest enrollment (~800K boys, ~650K girls) but shows male bias.
+Maharashtra follows as second largest (~500K boys, ~500K girls) with better balance.
+Strong positive correlation (0.9+) between boys and girls enrollment across states.
+Gender Parity Patterns.
 
 **States Above Parity Line (More Girls than Boys):**
 
-Tamil Nadu - Clear female advantage in senior secondary education
-Kerala - Progressive southern state showing girls' educational success
-Andhra Pradesh - Moderate female advantage
-West Bengal - Slight female advantage
+Tamil Nadu - Clear female advantage in senior secondary education.
+Kerala - Progressive southern state showing girls' educational success.
+Andhra Pradesh - Moderate female advantage.
+West Bengal - Slight female advantage.
 
 **States Below Parity Line (More Boys than Girls):**
 
-Uttar Pradesh - Significant male bias despite highest enrollment
-Bihar - Traditional male preference in education
-Rajasthan - Conservative attitudes affecting girls' education
-Madhya Pradesh - Male-dominated enrollment patterns
+Uttar Pradesh - Significant male bias despite highest enrollment.
+Bihar - Traditional male preference in education.
+Rajasthan - Conservative attitudes affecting girls' education.
+Madhya Pradesh - Male-dominated enrollment patterns.
 
 **Key Regional Insights**
 
 **South India Performance**:
 
-Tamil Nadu, Kerala, Andhra Pradesh show pro-female enrollment
-Better gender equality in education access
-Cultural factors supporting girls' education
+Tamil Nadu, Kerala, Andhra Pradesh show pro-female enrollment.
+Better gender equality in education access.
+Cultural factors supporting girls' education.
 
 **North India Challenges:**
-UP, Bihar, Rajasthan show male bias
-Traditional gender roles limiting girls' access
-Need for targeted interventions
+UP, Bihar, Rajasthan show male bias.
+Traditional gender roles limiting girls' access.
+Need for targeted interventions.
 
 **Northeast & Small States**:
 
-Generally balanced enrollment
-Smaller absolute numbers but good gender parity
-Progressive educational policies
+Generally balanced enrollment.
+Smaller absolute numbers but good gender parity.
+Progressive educational policies.
 
 **Policy Implications**
-Immediate Attention Needed:
 
-Uttar Pradesh: Despite large numbers, significant gender gap exists
-Bihar & Rajasthan: Traditional mindsets need addressing
-Focus on rural areas where disparities are likely higher
+Uttar Pradesh: Despite large numbers, significant gender gap exists.
+Bihar & Rajasthan: Traditional mindsets need addressing.
+Focus on rural areas where disparities are likely higher.
 
 **Statistical Highlights**
-Total National: Boys slightly outnumber girls in Class XII
-State Distribution: ~15-18 states show male advantage, ~12-15 show female advantage
-Correlation: Strong 0.9+ correlation suggests systemic factors affect both genders similarly
-Bubble Size: Larger states drive national trends but smaller states often show better balance
+Total National: Boys slightly outnumber girls in Class XII.
+State Distribution: ~15-18 states show male advantage, ~12-15 show female advantage.
+Correlation: Strong 0.9+ correlation suggests systemic factors affect both genders similarly.
+Bubble Size: Larger states drive national trends but smaller states often show better balance.
 
 **Research Implications**
 Educational Dropouts: Why do fewer girls reach Class XII in certain states?
-Cultural Factors: Marriage age, safety concerns, economic priorities
-Infrastructure: School availability, transportation, sanitation facilities
-Economic: Opportunity cost of education vs. early employment/marriage
+Cultural Factors: Marriage age, safety concerns, economic priorities.
+Infrastructure: School availability, transportation, sanitation facilities.
+Economic: Opportunity cost of education vs. early employment/marriage.
 This visualization effectively reveals that while India has made progress in primary education gender parity, significant challenges remain at the senior secondary level, particularly in large northern states that could drive national policy changes if addressed effectively.
 
 
