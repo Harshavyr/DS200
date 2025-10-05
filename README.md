@@ -46,6 +46,7 @@ The dataset used in this project is the **"Real Time Air Quality index for vario
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0fe8d689-c6fc-46f1-9152-0bf1fc1745de" />
 
 Inferences from PM2.5 Box Plot Data Analysis
+
 The box plot analysis of PM2.5 pollution data across India's top 10 cities reveals several critical data-driven inferences:
 The analysis examines PM2.5 pollution levels across India's top 10 most polluted cities using box plot visualization. The study reveals critical air quality patterns, variability in pollution levels, and health implications for urban populations. All analyzed cities demonstrate PM2.5 concentrations that significantly exceed World Health Organization (WHO) guidelines, indicating a widespread public health crisis.
 
