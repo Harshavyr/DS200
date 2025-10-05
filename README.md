@@ -7,7 +7,7 @@ This page is Created for the Evaluation of Research Methods Module of different 
 The dataset used in this project is the **"Government Expenditure on R&D"**.
 
 - **Source:** Open Government Data (OGD) Platform India
-- **Link:** [https://data.gov.in/Government/expenditure/on/R&D]
+- **Link:** [https://www.data.gov.in/catalog/national-rd-expenditure-relation-economic-activity]
 - **Date Accessed:** October 5, 2025
   Analysis:-
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0651c0b6-7870-4fe6-8498-e23c643e2618" />
